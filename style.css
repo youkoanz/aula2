@@ -1,0 +1,18 @@
+.app {
+    display: flex; /* Ativa o flexbox */
+    justify-content: space-between; /* Espaço entre os itens */
+    align-items: flex-start; /* Alinha os itens ao topo */
+    padding: 20px; /* Espaçamento interno */
+} 
+body {
+ font-family: Arial, Helvetica, sans-serif;
+
+}
+.titulo {
+    text-align: center;
+    font-size: 15px;
+}
+.titulo2 {
+    text-align: center;
+    font-size: 10px;
+}
